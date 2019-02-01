@@ -1,3 +1,5 @@
 # minnehack2019
 
-this is a test push by Alex
+Repository for the February 2nd-3rd 2019 University of Minnesota hackathon
+
+Team/Authors: Reid Fluegel, Dominic Voto, Alex Zhu
